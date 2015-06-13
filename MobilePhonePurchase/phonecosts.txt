@@ -1,0 +1,114 @@
+
+habiby ,65 state street  ,0 ,2128 ,0 ,343.73
+habiby ,65 state street  ,0 ,2128 ,0 ,343.73
+habiby ,65 state street  ,1 ,2128 ,0 ,257.63
+habiby ,65 state street  ,1 ,2128 ,0 ,257.63
+habiby ,65 state street  ,4 ,2128 ,2 ,506.67
+habiby ,65 state street  ,4 ,2128 ,2 ,506.67
+habiby ,65 state street  ,2 ,2128 ,1 ,371.10
+habiby ,65 state street  ,2 ,2128 ,1 ,371.10
+sweeny ,67 west st ,1 ,9099 ,2 ,221.02
+sweeny ,67 west st ,1 ,9099 ,2 ,221.02
+ghfg ,ffgh ,1 ,98080 ,1 ,236.37
+ghfg ,ffgh ,1 ,98080 ,1 ,236.37
+ghfg ,ffgh ,1 ,98080 ,1 ,236.37
+fgd ,dfg ,0 ,33423 ,0 ,370.369075
+fgd ,dfg ,0 ,33423 ,0 ,343.73
+fdhgfd ,gfdhf ,0 ,34345 ,0 ,370.369075
+tersdy ,dftgyh ,1 ,46366 ,2 ,370.369075
+tuyrt ,yryr ,0 ,54745 ,0 ,343.73
+fghdf ,fghf ,0 ,56456 ,0 ,343.73
+rfgeg ,fgd ,1 ,43653 ,0 ,370.369075
+rfgeg ,fgd ,0 ,43653 ,0 ,343.73
+rfgeg ,fgd ,0 ,43653 ,0 ,343.73
+rfgeg ,fgd ,0 ,43653 ,0 ,343.73
+etret ,dfgdfg ,2 ,53453 ,2 ,370.369075
+etret ,dfgdfg ,0 ,53453 ,0 ,343.73
+gfhdf ,fghfd ,1 ,34563 ,0 ,277.596325
+gfhdf ,fghfd ,0 ,34563 ,0 ,343.73
+dyty ,rtyry ,0 ,35456 ,0 ,370.369075
+dyty ,rtyry ,0 ,35456 ,0 ,343.73
+dyty ,rtyry ,0 ,35456 ,2 ,330.9218
+dyty ,rtyry ,0 ,35456 ,0 ,343.73
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,302.809825
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,343.73
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,343.73
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,302.809825
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,343.73
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,343.73
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,302.809825
+fgdsfg ,dfgdf ,3 ,44545 ,2 ,343.73
+erterwt ,wertwe ,1 ,23542 ,1 ,254.688675
+erterwt ,wertwe ,1 ,23542 ,1 ,343.73
+dfgdf ,dfgdf ,1 ,34535 ,1 ,254.688675
+dfgdf ,dfgdf ,1 ,34535 ,1 ,254.688675
+dfgdf ,dfgdf ,3 ,34535 ,2 ,302.809825
+dfgdf ,dfgdf ,3 ,34535 ,2 ,343.73
+fdghh ,fgh ,2 ,34563 ,1 ,399.86025
+fdghh ,fgh ,3 ,34563 ,1 ,319.34945
+fdghh ,fgh ,3 ,34563 ,2 ,302.809825
+fdghh ,fgh ,2 ,34563 ,1 ,343.73
+fdghh ,fgh ,1 ,34563 ,1 ,343.73
+fdghh ,fgh ,1 ,34563 ,1 ,343.73
+fdghh ,fgh ,1 ,34563 ,1 ,343.73
+fdghh ,fgh ,4 ,34563 ,1 ,343.73
+fdghh ,fgh ,2 ,34563 ,1 ,343.73
+fdghh ,fgh ,1 ,34563 ,1 ,343.73
+fdghh ,fgh ,2 ,34563 ,1 ,343.73
+Mike ,rotan ,0 ,34234 ,1 ,347.461425
+Mike ,rotan ,0 ,34234 ,1 ,343.73
+fgf ,dfgd ,2 ,45435 ,2 ,370.369075
+fgf ,dfgd ,2 ,45435 ,1 ,370.369075
+mohammed ,56tr ,1 ,78686 ,1 ,370.369075
+mohammed ,56tr ,1 ,78686 ,1 ,371.73
+mohammed ,56tr ,1 ,78686 ,1 ,370.369075
+mohammed ,56tr ,1 ,78686 ,0 ,370.369075
+mohammed ,56tr ,1 ,78686 ,0 ,370.369075
+mohammed ,56tr ,1 ,78686 ,0 ,370.369075
+mohammed ,56tr ,1 ,78686 ,0 ,370.369075
+mohammed ,56tr ,1 ,78686 ,1 ,370.369075
+mohammed ,56tr ,1 ,78686 ,2 ,370.369075
+mohammed ,56tr ,2 ,78686 ,2 ,370.369075
+mohammed ,56tr ,2 ,78686 ,2 ,371.73
+mohammed ,56tr ,1 ,78686 ,2 ,371.73
+mohammed ,56tr ,1 ,78686 ,2 ,371.73
+mohammed ,56tr ,1 ,78686 ,2 ,371.73
+med ,56 ct st ,1 ,3245 ,1 ,254.688675
+med ,56 ct st ,1 ,3245 ,1 ,254.688675
+med ,56 ct st ,1 ,3245 ,1 ,254.688675
+med ,56 ct st ,1 ,3245 ,1 ,254.688675
+med ,56 ct st ,2 ,3245 ,1 ,254.688675
+med ,56 ct st ,4 ,3245 ,1 ,254.688675
+med ,56 ct st ,2 ,3245 ,1 ,254.688675
+med ,56 ct st ,2 ,3245 ,1 ,254.688675
+med ,56 ct st ,4 ,3245 ,1 ,550.02
+med ,dgfsdf ,0 ,23423 ,1 ,347.461425
+med ,dgfsdf ,1 ,23423 ,1 ,350.47
+med ,dgfsdf ,1 ,23423 ,1 ,264.37
+med ,dgfsdf ,2 ,23423 ,2 ,249.02
+med ,efffsd ,1 ,31242 ,1 ,254.688675
+med ,efffsd ,1 ,31242 ,1 ,264.37
+med ,efffsd ,1 ,31242 ,1 ,264.37
+med ,efffsd ,1 ,31242 ,1 ,264.37
+med ,efffsd ,1 ,31242 ,1 ,550.02
+med ,efffsd ,1 ,31242 ,1 ,399.10
+med ,efffsd ,1 ,31242 ,1 ,399.10
+med ,efffsd ,1 ,31242 ,1 ,399.10
+med ,efffsd ,1 ,31242 ,1 ,399.10
+med ,efffsd ,1 ,31242 ,1 ,399.10
+med ,efffsd ,1 ,31242 ,1 ,399.10
+med ,efffsd ,1 ,31242 ,1 ,399.10
+med ,efffsd ,2 ,31242 ,1 ,399.86025
+med ,efffsd ,2 ,31242 ,2 ,383.320625
+mohammed ,45fgdggdf ,0 ,34253 ,0 ,370.369075
+mohammed ,45fgdggdf ,0 ,34253 ,1 ,347.461425
+mohammed ,45fgdggdf ,1 ,34253 ,1 ,350.47
+mohammed ,45fgdggdf ,1 ,34253 ,1 ,350.47
+mohammed ,45fgdggdf ,2 ,34253 ,2 ,335.12
+mohammed ,45fgdggdf ,2 ,34253 ,2 ,309.03
+fgdfg ,dfsdf ,1 ,9 ,1 ,254.688675
+fgdfg ,dfsdf ,1 ,9 ,1 ,254.688675
+fgdfg ,dfsdf ,1 ,9 ,1 ,254.688675
+fgdfg ,dfsdf ,1 ,9 ,1 ,254.688675
+fgdfg ,dfsdf ,1 ,9 ,1 ,264.37
+fgdfg ,dfsdf ,1 ,9 ,1 ,264.37
